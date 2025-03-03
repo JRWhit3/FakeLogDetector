@@ -1,0 +1,1 @@
+Please do not look at the code as it contains the answers. Just simply download the attachment and double click on it to start it up! If you are having difficulty you can either watch the training video, or look at the code to find the correct logs. 
